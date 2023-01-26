@@ -1,0 +1,20 @@
+created: 20230126073655535
+creator: 羑羡
+modified: 20230126075119584
+modifier: 羑羡
+title: GettingStarted
+type: text/vnd.tiddlywiki
+wysiwyg: yes
+
+欢迎来到 ~TiddlyWiki 和 ~TiddlyWiki 社区
+
+开始在 ~TiddlyWiki 中存储重要信息之前，确保能够可靠地保存更改很重要。详情见 [ext[https://tiddlywiki.com/#GettingStarted]]
+
+!! 设置此 ~TiddlyWiki
+
+<$edit-text tiddler="$:/SiteTitle" default="" tag="input"/>
+<$edit-text tiddler="$:/SiteSubtitle" default="" tag="input"/>
+<br ></br></br></br></br></br></br></br></br></br>
+<<lingo DefaultTiddlers/TopHint>>
+<$edit tag="textarea" tiddler="$:/DefaultTiddlers"/><br ></br></br></br></br></br></br></br></br></br><<lingo DefaultTiddlers/BottomHint>>
+可在[[控制台|$:/ControlPanel]]查看更多选项。
